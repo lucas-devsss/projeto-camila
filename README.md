@@ -1,8 +1,76 @@
-# Projeto Camila - Portfólio Web
+# 📘 Projeto Camila
+
+## 🧩 Sobre o projeto
+
+O Projeto Camila é uma landing page desenvolvida para simular um cenário realista de criação de portfólio web, com foco na prática de HTML semântico e CSS Flexbox.
+
+## 🎯 Objetivo do projeto
+
+O projeto tem como foco:
+
+- Praticar HTML semântico
+- Reforçar conceitos de CSS Flexbox
+- Aplicar a abordagem Mobile First
+- Melhorar métricas de SEO e performance
+- Entender o impacto da semântica HTML em acessibilidade e indexação
+- Aprender técnicas básicas de otimização de imagens
+- Simular um cenário real de refatoração front-end
+
+## 🚀 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- Lighthouse
 
 
+## 📁 Estrutura de pastas
 
-- Este é um projeto onde tive a atitude de praticar meus conhecimentos de HTML e CSS em um cenário realista de um pedido para portfólio web. Após terminar a primeira versão, identifiquei problemas de baixa performance e SEO no LightHouse, onde tive a necessidade de revisar e refatorar o meu código. 
+```
+📂 projeto-camila/
+ ┣ 📂 images/
+ ┣ 📜 index.html
+ ┣ 📜 reset.css
+ ┗ 📜 style.css
+```
 
-- Com isso, tomei a ação de sair zona de conforto ao aplicar a abordagem Mobile First, estudar como a semântica do HTML impacta no SEO e como a otimização de imagens melhora o desempenho. Isso resultou em um aumento de 100% nas métricas de SEO e uma evolução para 99% de desempenho nas métricas do LightHouse. 
+## ⚙️ Como executar o projeto
 
+1. Clone este repositório:
+   
+   ```
+   git clone https://github.com/SeuUsuario/projeto-camila
+   ```
+Abra o arquivo index.html em seu navegador.
+
+
+## 📋 Funcionalidades principais
+
+- ✅ Layout responsivo
+- ✅ Estrutura Mobile First
+- ✅ HTML semântico
+- ✅ Organização visual com Flexbox
+- ✅ Otimização de imagens
+- ✅ Melhorias de SEO
+- ✅ Melhorias de performance no Lighthouse
+
+## 🧠 Aprendizados
+
+- Estruturação semântica com HTML5
+- Uso prático de Flexbox para construção de layouts
+- Aplicação da abordagem Mobile First
+- Otimização de imagens para performance web
+- Entendimento das métricas do Lighthouse
+- Impacto da semântica HTML em SEO e acessibilidade
+- Organização e refatoração de código CSS
+
+## 💡 Nota
+Este projeto marcou uma evolução importante no entendimento sobre desenvolvimento front-end além da interface visual. A refatoração permitiu compreender como decisões estruturais no HTML e otimizações simples podem impactar diretamente performance, SEO e experiência do usuário.
+
+
+## 👨‍💻 Autor
+
+Feito com 💙 por **Caio Lucas**
+
+
+🔗 [GitHub](https://github.com/caio-dev0)
+💼 [LinkedIn](https://www.linkedin.com/in/caio-dev0/)
