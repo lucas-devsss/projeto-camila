@@ -72,5 +72,5 @@ Este projeto marcou uma evolução importante no entendimento sobre desenvolvime
 Feito com 💙 por **Caio Lucas**
 
 
-🔗 [GitHub](https://github.com/caio-dev0)
-💼 [LinkedIn](https://www.linkedin.com/in/caio-dev0/)
+🔗 [GitHub](https://github.com/lucas-devsss)
+💼 [LinkedIn](https://www.linkedin.com/in/lucas-devsss/)
